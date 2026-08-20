@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Currently Master's student in Computer Science @ Sapienza University of Rome<br>🔭 Seeking for internships in AI field
+💼 Currently Master's student in Computer Science @ Sapienza University of Rome<br>🔭 AI Engineer Intern @ Translated
 
 
 ## 🌐 Socials:
